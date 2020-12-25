@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd9cfee5-70ec-4ebd-9fe7-936ce5dbdde4" name="Default Changelist" comment="" />
+    <list default="true" id="bd9cfee5-70ec-4ebd-9fe7-936ce5dbdde4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28x28Info/archive (1).zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameraDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/cameraDetection.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AI HandRecognition" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1m8kG70ikltp9lORLiplazRkE8x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -72,22 +85,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2027" height="318" key="GridCell.Tab.0.bottom" timestamp="1608883093809">
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom" timestamp="1608916833114">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1608883093809" />
-    <state width="2027" height="318" key="GridCell.Tab.0.center" timestamp="1608883093809">
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1608916833114" />
+    <state width="2027" height="318" key="GridCell.Tab.0.center" timestamp="1608916833114">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1608883093809" />
-    <state width="2027" height="318" key="GridCell.Tab.0.left" timestamp="1608883093809">
+    <state width="2027" height="318" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1608916833114" />
+    <state width="2027" height="318" key="GridCell.Tab.0.left" timestamp="1608916833114">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1608883093809" />
-    <state width="2027" height="318" key="GridCell.Tab.0.right" timestamp="1608883093809">
+    <state width="2027" height="318" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1608916833114" />
+    <state width="2027" height="318" key="GridCell.Tab.0.right" timestamp="1608916833114">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1608883093809" />
+    <state width="2027" height="318" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1608916833114" />
     <state x="535" y="222" key="SettingsEditor" timestamp="1608882659041">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
