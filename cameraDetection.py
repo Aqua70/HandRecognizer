@@ -10,6 +10,7 @@ while(True):
     topRight = (525,420);
     # Our operations on the frame come here
     gray = cv2.cvtColor(frame, 10)
+    gray = cv2.resize(gray, (280,280))
     # rect = cv2.rectangle(gray, bottomLeft, topRight, (255,0,0), 2)
     faces = face_cascade.detectMultiScale(gray, 1.1, 4)
     # Display the resulting frame
