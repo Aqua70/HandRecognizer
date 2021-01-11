@@ -22,15 +22,18 @@ for currTest in test:
     Ytemp = [0 for i in range(0,26)]
     Ytemp[int(currTest["label"])] = 1;
     # Format training data
-    for i in range(1, XSize + 1):
-        Xtemp.append(int(currTest["pixel" + str(i)])/255)
+    for i in range(0, 28):
+        Xtemp2 = []
+        for j in range(1, 29):
+            Xtemp2.append([int(currTest["pixel" + str(28 * i + j)])/255])
+        Xtemp.append(Xtemp2)
     X.append(Xtemp)
     Y.append(Ytemp)
     ans.append(int(currTest["label"]))
 
 print("Predicting...\n")
 predictions = np.argmax(model.predict(X), axis=-1)
-# summarize the first 5 cases
+
 totalPredictions = len(X)
 totalCorrect = 0
 for i in range(len(predictions)):

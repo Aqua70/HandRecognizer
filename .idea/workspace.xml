@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9cfee5-70ec-4ebd-9fe7-936ce5dbdde4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AI HandRecognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI HandRecognition.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HandEvaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandEvaluator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HandTrainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandTrainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handModel/keras_metadata.pb" beforeDir="false" afterPath="$PROJECT_DIR$/handModel/keras_metadata.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handModel/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/handModel/saved_model.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handModel/variables/variables.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/handModel/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handModel/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/handModel/variables/variables.index" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,7 @@
       <recent name="C:\Users\Ilan\Desktop\VS\Self\AI HandRecognition\28x28Info" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HandTrainer (1)">
+  <component name="RunManager" selected="Python.HandTrainer">
     <configuration name="HandEvaluator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI HandRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,9 +163,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HandTrainer (1)" />
-        <item itemvalue="Python.HandEvaluator (1)" />
         <item itemvalue="Python.HandTrainer" />
+        <item itemvalue="Python.HandEvaluator (1)" />
+        <item itemvalue="Python.HandTrainer (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.HandEvaluator" />
       </list>
@@ -231,38 +234,38 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="806" y="334" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1609200688269" />
-    <state width="2027" height="322" key="GridCell.Tab.0.bottom" timestamp="1609369758206">
+    <state width="2027" height="322" key="GridCell.Tab.0.bottom" timestamp="1610323720463">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="322" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1609369758206" />
-    <state width="2027" height="322" key="GridCell.Tab.0.center" timestamp="1609369758206">
+    <state width="2027" height="322" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1610323720463" />
+    <state width="2027" height="322" key="GridCell.Tab.0.center" timestamp="1610323720463">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="322" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1609369758206" />
-    <state width="2027" height="322" key="GridCell.Tab.0.left" timestamp="1609369758206">
+    <state width="2027" height="322" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1610323720463" />
+    <state width="2027" height="322" key="GridCell.Tab.0.left" timestamp="1610323720463">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="322" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1609369758206" />
-    <state width="2027" height="322" key="GridCell.Tab.0.right" timestamp="1609369758206">
+    <state width="2027" height="322" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1610323720463" />
+    <state width="2027" height="322" key="GridCell.Tab.0.right" timestamp="1610323720463">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="322" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1609369758206" />
-    <state width="2027" height="392" key="GridCell.Tab.1.bottom" timestamp="1609367861627">
+    <state width="2027" height="322" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1610323720463" />
+    <state width="2027" height="392" key="GridCell.Tab.1.bottom" timestamp="1610318787451">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="392" key="GridCell.Tab.1.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1609367861627" />
-    <state width="2027" height="392" key="GridCell.Tab.1.center" timestamp="1609367861627">
+    <state width="2027" height="392" key="GridCell.Tab.1.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1610318787451" />
+    <state width="2027" height="392" key="GridCell.Tab.1.center" timestamp="1610318787451">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="392" key="GridCell.Tab.1.center/0.0.2048.1152@0.0.2048.1152" timestamp="1609367861627" />
-    <state width="2027" height="392" key="GridCell.Tab.1.left" timestamp="1609367861627">
+    <state width="2027" height="392" key="GridCell.Tab.1.center/0.0.2048.1152@0.0.2048.1152" timestamp="1610318787451" />
+    <state width="2027" height="392" key="GridCell.Tab.1.left" timestamp="1610318787451">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="392" key="GridCell.Tab.1.left/0.0.2048.1152@0.0.2048.1152" timestamp="1609367861627" />
-    <state width="2027" height="392" key="GridCell.Tab.1.right" timestamp="1609367861627">
+    <state width="2027" height="392" key="GridCell.Tab.1.left/0.0.2048.1152@0.0.2048.1152" timestamp="1610318787451" />
+    <state width="2027" height="392" key="GridCell.Tab.1.right" timestamp="1610318787451">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="392" key="GridCell.Tab.1.right/0.0.2048.1152@0.0.2048.1152" timestamp="1609367861627" />
+    <state width="2027" height="392" key="GridCell.Tab.1.right/0.0.2048.1152@0.0.2048.1152" timestamp="1610318787451" />
     <state x="535" y="222" key="SettingsEditor" timestamp="1609361505200">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -271,5 +274,9 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="617" y="310" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1608916927239" />
+    <state x="687" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1609370039260">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="687" y="253" width="672" height="678" key="search.everywhere.popup/0.0.2048.1152@0.0.2048.1152" timestamp="1609370039260" />
   </component>
 </project>
